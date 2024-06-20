@@ -1,4 +1,4 @@
 # SegformerTutorial
 
-Beware Pytorch CPU is added as a dependency in requirements.txt.
+Beware Pytorch is not in requirements.txt.
 You know what to do.
